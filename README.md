@@ -1,6 +1,6 @@
 ## Hi there, I'm dani! 👋
 
-I'm a **Full Stack Developer** specializing in modern web technologies, focused on building NextJS 
+I'm a **Full Stack Developer** specializing in modern web technologies, focused on building NextJS Projects.
 
 ### 🛠️ Tech Stack
 
